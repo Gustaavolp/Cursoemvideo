@@ -1,5 +1,5 @@
+#Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada
 n = int(input('Digite um número: '))
-d = (n*2)
-t = (n*3)
-Rq = (n**(1/2))
-print('Dado o valor {} seu dobro é {} seu triplo é {} e sua raiz quadrada é {:.2f}'.format(n,d,t,Rq))
+print('O dobro de {} vale {}.'.format(n, n*2))
+print('O triplo de {} vale {}.'.format(n, n*3))
+print('A raiz quadrada de {} é igual a {:.2f}.'.format(n, (n**(1/2))))
