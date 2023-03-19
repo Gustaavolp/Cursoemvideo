@@ -1,2 +1,2 @@
-# Cursoemvideo
- Repositório criado para exercicios "Curso em Vídeo"
+# Cursoemvideo - Python Execícios
+ Repositório criado para exercicios de Python "Curso em Vídeo"
